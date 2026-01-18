@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Tamim</h1>
+<h3 align="center">A Passionate Web Developer from Bangladesh 🇧🇩</h3>
 
-<!--
-**liliput-tamim/liliput-tamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Web Developer  
+- 🌱 Learning JavaScript, React & Backend  
+- 🎯 Goal: Professional Full-Stack Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- HTML, CSS, JavaScript  
+- React  
+- Node.js, Express  
+- MongoDB  
+
+---
+
+### 📊 GitHub Stats
+![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliput-tamim&show_icons=true)
+
+---
+
+### 📫 Contact
+- 📧 Email: tamim152007@gmail.com
